@@ -26,9 +26,6 @@ The background below them is visible white because I have set it to scroll mode 
 ![Screenshot 2023-11-15 at 13-03-29 RECORDS](https://github.com/shahanshah786/CRIMINAL-FACE-DETECTION/assets/126701251/d2c794c9-ac5c-4988-b054-f6d9b20b9f6f)
 
 
-![Screenshot 2023-11-15 at 10-58-21 RECORDS](https://github.com/shahanshah786/CRIMINAL-FACE-DETECTION/assets/126701251/c38fdf60-db5b-4d40-ae20-1aef75905041)
-
-
 
 
 
