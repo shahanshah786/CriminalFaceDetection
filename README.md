@@ -12,6 +12,8 @@ this is my first project of using JAVA, JSP and MySQL and this project only for 
 
 
 
+The background below them is visible white because I have set it to scroll mode but the picture may appear white because I have given the size.
+
 
 ![Screenshot 2023-11-15 at 13-02-43 ADDCRIMINAL](https://github.com/shahanshah786/CRIMINAL-FACE-DETECTION/assets/126701251/bf5b3bb8-6dd9-49c3-813d-ab220b8249c4)
 
