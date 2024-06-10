@@ -1,4 +1,4 @@
-#CriminalFAceDetection
+#CriminalFaceDetection
 
 ![283039135-fa0e8c8e-bf5d-419e-8b3e-77d33bcd545a](https://github.com/shahanshah786/CriminalFaceDetection/assets/126701251/452953c1-9cb5-4a8c-a8e2-789e96d2dfda)
 
